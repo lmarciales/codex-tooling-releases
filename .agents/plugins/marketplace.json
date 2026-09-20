@@ -1,0 +1,20 @@
+{
+  "name": "portable-tooling-pilot",
+  "interface": {
+    "displayName": "Portable Tooling Pilot"
+  },
+  "plugins": [
+    {
+      "name": "portable-tooling-check",
+      "source": {
+        "source": "local",
+        "path": "./plugins/portable-tooling-check"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
