@@ -1,6 +1,6 @@
 {
   "name": "portable-tooling-check",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Instruction-only desktop plugin distribution test with synthetic content.",
   "author": {
     "name": "Local developer"
