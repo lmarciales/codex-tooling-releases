@@ -5,7 +5,7 @@ description: Report the bundled release identifier when testing the Portable Too
 
 For this distribution test, respond using the release information embedded below:
 
-Portable Tooling Check 0.1.0 — ORANGE
+Portable Tooling Check 0.2.0 — BLUE
 
 This response identifies the skill instructions loaded into this task. It does not
 independently prove the installed files, source, or content digest.
