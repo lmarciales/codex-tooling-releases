@@ -1,0 +1,18 @@
+{
+  "name": "portable-tooling-check",
+  "version": "0.1.0",
+  "description": "Instruction-only desktop plugin distribution test with synthetic content.",
+  "author": {
+    "name": "Local developer"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Portable Tooling Check",
+    "shortDescription": "Check the loaded pilot release.",
+    "longDescription": "Reports a fixed release version and synthetic marker to test desktop plugin distribution.",
+    "developerName": "Local developer",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Run the portable-release-check skill and report its release."
+  }
+}
